@@ -1,0 +1,26 @@
+a{
+    color:violet;
+}
+
+li{
+    list-style-position: inside;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    color: rgb(160, 1, 1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color:slateblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    color:goldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
